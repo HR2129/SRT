@@ -1,0 +1,66 @@
+[
+    {
+      "model": "Dodge Challenger SRT Hellcat",
+      "year": 2023,
+      "engine": "6.2L Supercharged V8",
+      "horsepower": "717 hp",
+      "torque": "650 lb-ft",
+      "speed": "3.6 seconds",
+      "image": "https://images.hdqwalls.com/wallpapers/dodge-challenger-srt-hellcat-widebody-front-look-4k-f5.jpg"
+    },
+    {
+      "model": "Chrysler 300 SRT",
+      "year": 2022,
+      "engine": "6.4L V8",
+      "horsepower": "485 hp",
+      "torque": "475 lb-ft",
+      "speed": "4.3 seconds",
+      "image": "https://richmonds.com.au/wp-content/uploads/2020/07/Chrystler-300c-SRT-Black-2.jpg"
+    },
+    {
+      "model": "Jeep Grand Cherokee SRT",
+      "year": 2023,
+      "engine": "6.4L V8",
+      "horsepower": "475 hp",
+      "torque": "470 lb-ft",
+      "speed": "4.3 seconds",
+      "image": "https://th.bing.com/th/id/OIP.SDYapOdntKNFMkmMeKjSOgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "model": "Ram 1500 TRX",
+      "year": 2023,
+      "engine": "6.2L Supercharged V8",
+      "horsepower": "702 hp",
+      "torque": "650 lb-ft",
+      "speed": "4.5 seconds",
+      "image": "https://www.motorbiscuit.com/wp-content/uploads/2020/08/2021-Ram-1500-TRX-overhead.jpg"
+    },
+    {
+      "model": "Dodge Viper SRT",
+      "year": 2017,
+      "engine": "8.4L V10",
+      "horsepower": "645 hp",
+      "torque": "600 lb-ft",
+      "speed": "3.5 seconds",
+      "image": "https://w0.peakpx.com/wallpaper/770/933/HD-wallpaper-dodge-viper-yellow-back-view-muscle-cars-vehicle.jpg"
+    },
+    {
+      "model": "Dodge Challenger SRT Demon",
+      "year": 2018,
+      "engine": "6.2L Supercharged V8",
+      "horsepower": "840 hp",
+      "torque": "770 lb-ft",
+      "speed": "2.3 seconds",
+      "image": "https://s1.cdn.autoevolution.com/images/news/gallery/massachusetts-dealer-keeps-dodge-challenger-srt-demon-170-refuses-to-sell-for-165000_1.jpg"
+    },
+    {
+      "model": "Dodge Charger SRT Redeye",
+      "year": 2023,
+      "engine": "6.2L Supercharged V8",
+      "horsepower": "797 hp",
+      "torque": "707 lb-ft",
+      "speed": "3.5 seconds",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cJOCUKmQSNecywJ_BGHOzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motorious_297/6b0aa773307466984f6e7a22d3ae3c0f"
+    }
+  ]
+  

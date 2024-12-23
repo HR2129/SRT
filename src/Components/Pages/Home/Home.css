@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* color: black; */
+}
+#page1{
+    margin: 5% 0;
+    height: 60vh;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#page1 img{
+    height: 100%;
+    width: 30%;
+    
+}
+#page1 #container{
+    min-height: 60mvh;
+    width: 100%;
+    /* background-color: blue; */
+}
+
+
+.page2{
+    margin-top: 5%;
+    min-height: 100%;
+    width: 100%;
+    /* background-color: bisque; */
+    display: flex;  
+    justify-content: center;  
+}
+.info{
+    padding: 1% 5%;
+    height: 50%;
+    width: 50%;
+    /* background-color: aqua; */
+    margin: 2% 1%;
+    line-height:25px;
+    position: absolute;
+    opacity: 0;
+
+}
+#heading{
+    line-height:10vh;
+}
+.car{
+    height: 50%;
+    width: 50%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5% ;
+    /* background-color: antiquewhite; */
+    z-index: 99;
+}
+.car img{
+    height: 50%;
+    width: 60%;
+    border-radius: 10%;
+}
+
+#bottom{
+    height: fit-content;
+    width: 90%;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+#toTop{
+    position: relative;
+    left: 10%;
+    color: rgb(255, 255, 255);
+    padding: 0.5% 1%;
+    border: none;
+    margin: 1%;
+    font-weight: 600;
+    font-size: 20px;
+    opacity: 1;
+    background-color: rgb(0, 0, 0);
+
+
+    &:active{
+        scale: 0.5;
+        opacity: 0.5;
+    }
+
+    &:hover{
+        cursor: pointer;
+        
+    }
+}
